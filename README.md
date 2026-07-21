@@ -40,7 +40,7 @@ This project is an interactive Logistics Operations Dashboard built using Micros
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard screenshot here after uploading dashboard.png)
+![Logistics Dashboard](dashboard.png)
 
 ---
 
